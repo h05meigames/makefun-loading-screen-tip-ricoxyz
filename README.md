@@ -11,7 +11,7 @@ developers and AI coding agents, sharp and funny enough to land mid-build.
 
 ## The tip
 
-> Tip: if the build has been "almost done" for ten minutes, it is not almost done — go drink water, the compiler is thinking about its life choices.
+> Tip: if the build has been "almost done" for ten minutes, it is not almost done — go drink water, the compiler is quietly rethinking its life choices.
 
 ## How it works
 
